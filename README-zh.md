@@ -27,7 +27,7 @@ Spring Cloud Alibaba 致力于提供微服务开发的一站式解决方案。�
 
 更多功能请参考 [Roadmap](https://github.com/alibaba/spring-cloud-alibaba/blob/master/Roadmap-zh.md)。
 
-## 组件
+## 组件11
 
 **[Sentinel](https://github.com/alibaba/Sentinel)**：把流量作为切入点，从流量控制、熔断降级、系统负载保护等多个维度保护服务的稳定性。
 
